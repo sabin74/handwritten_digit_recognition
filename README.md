@@ -53,5 +53,5 @@ This project implements a Convolutional Neural Network (CNN) using TensorFlow an
 - Visualize predictions vs true labels.
 
 ### 7. Model Saving & Loading
-- Save the trained model to disk (`.h5` format).
+- Save the trained model to disk (`.keras` format).
 - Load model for future inference or further training.
